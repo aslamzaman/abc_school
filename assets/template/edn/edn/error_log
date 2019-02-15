@@ -1,0 +1,52 @@
+[24-Feb-2016 03:44:11 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mydatait/public_html/edn/conn.php on line 7
+[24-Feb-2016 03:44:11 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mydatait/public_html/edn/log.php on line 10
+[24-Feb-2016 03:44:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mydatait/public_html/edn/log.php on line 11
+[24-Feb-2016 04:03:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mydatait/public_html/edn/logout.php:1) in /home/mydatait/public_html/edn/logout.php on line 2
+[24-Feb-2016 04:03:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydatait/public_html/edn/logout.php:1) in /home/mydatait/public_html/edn/logout.php on line 5
+[24-Feb-2016 04:12:33 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'mydatait_aslam'@'localhost' to database 'mydatait_db_edn' in /home/mydatait/public_html/edn/conn.php on line 7
+[24-Feb-2016 04:12:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mydatait/public_html/edn/custom.php on line 385
+[24-Feb-2016 04:12:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mydatait/public_html/edn/custom.php on line 386
+[24-Feb-2016 04:12:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mydatait/public_html/edn/custom.php on line 385
+[24-Feb-2016 04:12:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mydatait/public_html/edn/custom.php on line 386
+[24-Feb-2016 04:12:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mydatait/public_html/edn/custom.php on line 385
+[24-Feb-2016 04:12:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mydatait/public_html/edn/custom.php on line 386
+[24-Feb-2016 04:12:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mydatait/public_html/edn/custom.php on line 385
+[24-Feb-2016 04:12:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mydatait/public_html/edn/custom.php on line 386
+[24-Feb-2016 04:14:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mydatait/public_html/edn/logout.php:1) in /home/mydatait/public_html/edn/logout.php on line 2
+[24-Feb-2016 04:14:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydatait/public_html/edn/logout.php:1) in /home/mydatait/public_html/edn/logout.php on line 5
+[24-Feb-2016 04:16:43 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mydatait/public_html/edn/logout.php:1) in /home/mydatait/public_html/edn/logout.php on line 2
+[24-Feb-2016 04:16:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydatait/public_html/edn/logout.php:1) in /home/mydatait/public_html/edn/logout.php on line 5
+[24-Feb-2016 04:17:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[24-Feb-2016 04:17:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[24-Feb-2016 04:17:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[24-Feb-2016 04:17:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[24-Feb-2016 04:17:18 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/mydatait/public_html/edn/logout.php on line 2
+[24-Feb-2016 04:17:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydatait/public_html/edn/logout.php:1) in /home/mydatait/public_html/edn/logout.php on line 4
+[24-Feb-2016 04:19:56 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/mydatait/public_html/edn/logout.php on line 2
+[24-Feb-2016 04:20:46 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/mydatait/public_html/edn/logout.php on line 2
+[24-Feb-2016 17:35:12 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'aslamzaman'@'localhost' (using password: YES) in /home/mydatait/public_html/edn/views.php on line 32
+[24-Feb-2016 17:35:12 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mydatait/public_html/edn/views.php on line 41
+[24-Feb-2016 17:35:12 Asia/Dhaka] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mydatait/public_html/edn/views.php on line 42
+[24-Feb-2016 17:35:12 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mydatait/public_html/edn/views.php on line 45
+[24-Feb-2016 17:35:12 Asia/Dhaka] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mydatait/public_html/edn/views.php on line 46
+[24-Feb-2016 17:35:12 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mydatait/public_html/edn/views.php on line 69
+[24-Feb-2016 17:35:12 Asia/Dhaka] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mydatait/public_html/edn/views.php on line 70
+[24-Feb-2016 17:35:12 Asia/Dhaka] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/mydatait/public_html/edn/views.php on line 82
+[24-Feb-2016 12:27:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mydatait/public_html/edn/comments.php:1) in /home/mydatait/public_html/edn/comments.php on line 2
+[24-Feb-2016 23:17:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[24-Feb-2016 23:17:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[24-Feb-2016 23:17:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[24-Feb-2016 23:17:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[25-Feb-2016 01:46:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[25-Feb-2016 01:46:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[25-Feb-2016 01:46:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[25-Feb-2016 01:46:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[27-Feb-2016 02:10:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[27-Feb-2016 02:10:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[27-Feb-2016 02:10:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[27-Feb-2016 02:10:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[27-Feb-2016 22:21:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/addmission_result_views.php on line 38
+[28-Feb-2016 23:38:13 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[28-Feb-2016 23:38:13 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[28-Feb-2016 23:38:13 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
+[28-Feb-2016 23:38:13 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydatait/public_html/edn/custom.php on line 386
